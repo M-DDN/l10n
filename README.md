@@ -1,5 +1,5 @@
 # l10n
 
-Branché sur la strate dédié aux localisations "l10n"
+Branché sur M-DDN-l10n → Conteneur dédié aux localisations "l10n" "i18n"
 
-→ Conteneur de productions. Traductions, doc, gabarits, logiciels, Wiki's...
+→ Traductions, doc, gabarits, logiciels, Wiki's...
